@@ -1,0 +1,42 @@
+---
+title: "A Title"
+subtitle: "A Subtitle"
+author: R Lille
+institute: R User Group
+picture: https://github.com/rlille.png
+date: today
+date-format: "dddd, [the] D[<sup style='font-size:65%;font-style:italic;'>th</sup>] [of] MMMM, YYYY"
+embed-resources: true
+format: rlille-revealjs
+---
+
+## Introduction
+
+### Subtitle
+
+`some code` and some text.  
+A URL [rlille.fr](https://rlille.fr/).
+
+```{r}
+#| echo: true
+1 + 1
+```
+
+```{r}
+#| echo: true
+x <- 1
+y <- x + 1
+y
+```
+
+# PART 1 With `code` {.center .center-x}
+
+## New slide
+
+With only text
+
+# {.center .center-x style="font-size: 2em;"}
+
+- [{{< iconify fa6-solid house >}} rlille.fr](https:/rlille.fr/)
+- [{{< iconify fa6-brands github >}} github.com/rlille](https://github.com/rlille)
+- [{{< iconify fa6-brands twitter >}} \@RLille_RUG](https://twitter.com/RLille_RUG)
