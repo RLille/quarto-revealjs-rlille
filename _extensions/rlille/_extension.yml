@@ -21,4 +21,4 @@ contributes:
       logo: rlille.svg
       include-in-header:
         - text: |
-            <link rel = "shortcut icon" href = "_extensions/rlille/rlille/rlille.svg" />
+            <link rel = "shortcut icon" href = "_extensions/RLille/rlille/rlille.svg" />
