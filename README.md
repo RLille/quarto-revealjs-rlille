@@ -1,10 +1,10 @@
-# Quarto reveal.js template - R Lille
+# Quarto Reveal.js template - R Lille
 
 <!-- badges: start -->
 [![License](https://img.shields.io/github/license/RLille/quarto-revealjs-rlille)](LICENSE)
 <!-- badges: end -->
 
-This is a `Quarto` `reveal.js` template repository.
+This is a `Quarto` `revealjs` template repository.
 
 ![Screenshot of title slide with R Lille logo in the top right corner, a white-ish background, a logo in the left surroundered by a red border, and in the right side, a block center aligned with, from top to bottom, a title, a subtitle, a red horizontal line, the author, and the date. The footer of the slide includes R Lille website and the CC-By license.](template.png)
 
