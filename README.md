@@ -6,7 +6,7 @@
 
 This is a `Quarto` `reveal.js` template repository.
 
-![Screenshot of title slide with a logo in the top right corner, a white-ish background, a logo in the left, a block center aligned in the right of the slide with a title and subtitle, a red horizontal line, the author and date. The footer of the slide includes the website and the license.](template.png)
+![Screenshot of title slide with R Lille logo in the top right corner, a white-ish background, a logo in the left surroundered by a red border, and in the right side, a block center aligned with, from top to bottom, a title, a subtitle, a red horizontal line, the author, and the date. The footer of the slide includes R Lille website and the CC-By license.](template.png)
 
 ## Installation
 
