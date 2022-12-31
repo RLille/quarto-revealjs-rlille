@@ -40,7 +40,6 @@ jobs:
           git config --global user.name "${{ github.actor }}"
           quarto publish gh-pages index.qmd
           cd ..
-          [ -d thumbs ] || mkdir thumbs
           Rscript -e "webshot2::webshot(url = \"index/index.html\", file = \"template.png\", vwidth = 1920, vheight = 1080)"
           rm -rf index
           git add template.png
