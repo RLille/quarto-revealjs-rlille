@@ -12,9 +12,14 @@ This is a `Quarto` `revealjs` template repository.
 
 This [Quarto](quarto.org) extension can be installed/used using the following command:
 
-```bash
-quarto use template RLille/quarto-revealjs-rlille
-```
+- Install
+  ```bash
+  quarto add mcanouil/quarto-revealjs-rlille
+  ```
+- Use
+  ```bash
+  quarto use template mcanouil/quarto-revealjs-rlille
+  ```
 
 ## Documentation
 
