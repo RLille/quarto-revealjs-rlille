@@ -51,7 +51,7 @@ jobs:
           # git push origin || echo "No changes to commit"
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v6
         with:
           add-paths: template.png
           commit-message: "ci: update thumbs"
